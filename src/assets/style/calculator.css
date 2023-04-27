@@ -30,10 +30,10 @@ body {
   }
   .button {
     border: none;
-    width: 5rem;
-    height: 5rem;
+    width: 7vh;
+    height: 7vh;
     border-radius: 100%;
-    font-size: 2rem;
+    font-size: 3vh;
     margin: 10px 20px;
     color: white;
   }
